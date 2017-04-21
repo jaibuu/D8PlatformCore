@@ -1,4 +1,1 @@
-dummy text
-update
-git submodule update --init
-test
+https test
